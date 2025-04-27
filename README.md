@@ -7,10 +7,9 @@ I'm a Software Engineer and a University graduate, and who got equipped with the
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I have a diploma in Frontend engineering studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I learnt JavaScript, Reactjs, and Vuejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front End Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing abayomidannon10@gmail.com.
+- 🌱 I learnt JavaScript, Reactjs, Typescript and Vuejs.
+- 💼 Job interests: Software Engineer, Front End Engineer, or UI Engineer (Junior/Mid level).
+- 📫 You can contact me by emailing abayomidannon10@gmail.com.
 
 ---
 
