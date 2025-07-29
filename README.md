@@ -6,7 +6,7 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer** and proud university 
 
 ## 🚀 About Me
 
-- 🔧 I work primarily with **JavaScript**, **TypeScript**, **React.js**, **Vue.js**, and **Next.js**.
+- 🔧 I work primarily with **JavaScript**, **React.js**,  **Next.js**, **TypeScript**, and **Vue.js**.
 - 🎨 I craft beautiful interfaces using **Tailwind CSS** and bring them to life with **GSAP animations**.
 - 💼 Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer** (Junior/Mid-level).
 - 📫 Reach me at **abayomidannon10@gmail.com**
@@ -21,7 +21,3 @@ Frameworks: React.js | Next.js | Vue.js
 Styling: Tailwind CSS | CSS Modules  
 Animation: GSAP | Framer Motion  
 Others: Git | Figma | REST APIs | Responsive Design
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dannon10&show_icons=true&include_all_commits=true&hide_border=true" alt="Dannon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannon10&langs_count=8&layout=compact&hide_border=true" alt="Dannon's GitHub stats" /> |
-| ------------- | ------------- |
