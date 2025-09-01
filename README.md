@@ -8,7 +8,7 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer** and proud university 
 
 - 🔧 I work primarily with **JavaScript**, **React.js**,  **Next.js**, **TypeScript**, and **Vue.js**.
 - 🎨 I craft beautiful interfaces using **Tailwind CSS** and bring them to life with **GSAP animations**.
-- 💼 Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer** (Junior/Mid-level).
+- 💼 Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer** (Mid-level).
 - 📫 Reach me at **abayomidannon10@gmail.com**
 
 ---
