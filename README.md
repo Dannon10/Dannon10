@@ -1,6 +1,6 @@
 # 👋🏾 Hello there, welcome to my GitHub!
 
-I'm **Abayomi Dannon**, a passionate **Software Engineer** and proud university graduate. I honed my core engineering skills at one of Africa’s top tech institutions — [AltSchool Africa](https://altschoolafrica.com). I love building modern, user-centric web applications and thrive in environments that encourage learning, documentation, and innovative problem-solving.
+I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engineering skills at one of Africa’s top tech institutions — [AltSchool Africa](https://altschoolafrica.com). I love building modern, user-centric web applications and thrive in environments that encourage learning, documentation, and innovative problem-solving.
 
 ---
 
@@ -17,7 +17,7 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer** and proud university 
 
 ```bash
 Languages: JavaScript | TypeScript  
-Frameworks: React.js | Next.js | Vue.js  
+Frameworks: React.js | Next.js | Vue.js | Thirdweb  
 Styling: Tailwind CSS | CSS Modules  
 Animation: GSAP | Framer Motion  
-Others: Git | Figma | REST APIs | Responsive Design
+Others: | Web3 Development | Git | Figma | REST APIs | Responsive Design
