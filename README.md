@@ -4,16 +4,16 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔧 I work primarily with **JavaScript**, **React.js**,  **Next.js**, **TypeScript**, and **Vue.js**.
-- 🎨 I craft beautiful interfaces using **Tailwind CSS** and bring them to life with **GSAP animations**.
-- 💼 Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer** (Mid-level).
-- 📫 Reach me at **abayomidannon10@gmail.com**
+-  I work primarily with **JavaScript**, **React.js**,  **Next.js**, **TypeScript**, and **Vue.js**.
+-  I craft beautiful interfaces using **Tailwind CSS** and bring them to life with **GSAP animations**.
+-  Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer** (Mid-level).
+-  Reach me at **abayomidannon10@gmail.com**
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ```bash
 Languages: JavaScript | TypeScript  
