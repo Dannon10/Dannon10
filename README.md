@@ -17,7 +17,8 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 
 ```bash
 Languages: JavaScript | TypeScript  
-Frameworks: React.js | Next.js | Vue.js | Thirdweb  
+Frameworks: React.js | Next.js | Vue.js | Thirdweb
+Testing: Jest, React Testing Library, Unit Testing
 Styling: Tailwind CSS | CSS Modules  
 Animation: GSAP | Framer Motion  
 Others: | Smart contract Integration | Git | REST APIs | Responsive Design
