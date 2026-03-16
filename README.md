@@ -1,6 +1,6 @@
 # 👋🏾 Hello there, welcome to my GitHub!
 
-I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engineering skills at one of Africa’s top tech institutions — [AltSchool Africa](https://altschoolafrica.com). I love building modern, user-centric web and mobile applications and thrive in environments that encourage learning, documentation, and innovative problem-solving.
+I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engineering skills at one of Africa’s top tech institutions [AltSchool Africa](https://altschoolafrica.com). I love building modern, user-centric web and mobile applications and thrive in environments that encourage learning, documentation, and innovative problem-solving.
 
 ---
 
