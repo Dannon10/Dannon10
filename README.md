@@ -8,7 +8,7 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 
 -  I work primarily with **JavaScript**, **React.js**, **Next.js**, **React Native**, **TypeScript**, and **Vue.js**.
 -  I craft beautiful interfaces using **Tailwind CSS** and bring them to life with **GSAP animations**.
--  Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer** (Mid-level).
+-  Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer**.
 -  Reach me at **abayomidannon10@gmail.com**
 
 ---
@@ -16,10 +16,14 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 ##  Technologies & Tools
 
 ```bash
-Languages: JavaScript | TypeScript  
-Frameworks: React.js | Next.js | React Native | Vue.js  
-Backend / BaaS: Supabase | Firebase | Thirdweb  
-Testing: Jest | React Testing Library | Unit Testing  
-Styling: Tailwind CSS | SASS/SCSS  
-Animation: GSAP | Framer Motion  
-Others: Smart Contract Integration | Git | REST APIs | Responsive Design
+Languages: JavaScript | TypeScript
+Frameworks: React.js | Next.js | React Native | Expo | Vue.js
+Backend / BaaS: Supabase | Firebase | Thirdweb
+  → Supabase specifics: Realtime | Row Level Security | Storage | Auth
+Maps & Location: Mapbox GL | Expo-location | Geocoding API
+Payments: Paystack (Web + React Native) | Flutterwave
+Testing: Jest | React Testing Library | jest-expo | Unit Testing | Hook Testing
+Styling: Tailwind CSS | SASS/SCSS
+State Management: Zustand | Redux
+Animation: GSAP | Framer Motion
+Others: Smart Contract Integration | Git | REST APIs | Responsive Design | Expo Router
