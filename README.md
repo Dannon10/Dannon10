@@ -16,14 +16,19 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 ##  Technologies & Tools
 
 ```bash
-Languages: JavaScript | TypeScript
-Frameworks: React.js | Next.js | React Native | Expo | Vue.js
-Backend / BaaS: Supabase | Firebase | Thirdweb
-  → Supabase specifics: Realtime | Row Level Security | Storage | Auth
-Maps & Location: Mapbox GL | Expo-location | Geocoding API
-Payments: Paystack (Web + React Native) | Flutterwave
-Testing: Jest | React Testing Library | jest-expo | Unit Testing | Hook Testing
-Styling: Tailwind CSS | SASS/SCSS
-State Management: Zustand | Redux
-Animation: GSAP | Framer Motion
-Others: Smart Contract Integration | Git | REST APIs | Responsive Design | Expo Router
+Here you go—clean, consistent, and with **Web3 properly included** in the same format:
+
+---
+
+**Languages:** JavaScript (ES6+) | TypeScript | HTML5 | CSS3
+**Frameworks:** React.js | Next.js | React Native | Expo | Vue.js
+**Backend / BaaS:** Supabase | Firebase | PostgreSQL | Thirdweb
+**Supabase specifics:** Realtime | Row Level Security | Storage | Auth
+**Maps & Location:** Google Maps API | Mapbox GL (Web + Native) | Expo-location | Geocoding API | Real-time GPS Tracking
+**Payments:** Paystack (Web + React Native) | Flutterwave | Stripe
+**Testing:** Jest | React Testing Library | Cypress | jest-expo | Unit Testing | Hook Testing
+**Styling:** Tailwind CSS | SASS/SCSS | Flexbox | Grid | Responsive Design
+**State Management:** Zustand | Redux
+**Animation:** GSAP | Framer Motion
+**Web3 & Blockchain:** Thirdweb SDK | Ethers.js | Wagmi | Smart Contract Integration | Wallet Connection | Ethereum
+**Others:** Git | GitHub | REST APIs | API Integration | Cross-Browser Compatibility | Expo Router | Postman | Figma | Node.js (Basics)
