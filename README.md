@@ -6,7 +6,7 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 
 ## About Me
 
--  I work primarily with **JavaScript**, **React.js**, **Next.js**, **React Native**, **TypeScript**, and **Vue.js**.
+-  I work primarily with **JavaScript**, **React.js**, **Next.js**, **React Native** and **TypeScript**.
 -  I craft beautiful interfaces using **Tailwind CSS** and bring them to life with **GSAP animations**.
 -  Actively seeking opportunities as a **Software Engineer**, **Frontend Engineer**, or **UI Engineer**.
 -  Reach me at **abayomidannon10@gmail.com**
@@ -15,10 +15,10 @@ I'm **Abayomi Dannon**, a passionate **Software Engineer**. I honed my core engi
 
 ##  Technologies & Tools
 
-```bash
+```text
 Languages: JavaScript (ES6+) | TypeScript | HTML5 | CSS3
 Frameworks: React.js | Next.js | React Native | Expo | Vue.js
-Backend / BaaS: Supabase | Firebase | PostgreSQL | Thirdweb
+Backend / BaaS: Node.js | Express.js | MongoDB | Supabase | Firebase | PostgreSQL | Thirdweb
 Supabase specifics: Realtime | Row Level Security | Storage | Auth
 Maps & Location: Google Maps API | Mapbox GL (Web + Native) | Expo-location | Geocoding API | Real-time GPS Tracking
 Payments: Paystack (Web + React Native) | Flutterwave | Stripe
@@ -27,5 +27,5 @@ Styling: Tailwind CSS | SASS/SCSS | Flexbox | Grid | Responsive Design
 State Management: Zustand | Redux
 Animation: GSAP | Framer Motion
 Web3 & Blockchain: Thirdweb SDK | Ethers.js | Wagmi | Smart Contract Integration | Wallet Connection | Ethereum
-Others: Git | GitHub | REST APIs | API Integration | Cross-Browser Compatibility | Expo Router | Postman | Figma | Node.js (Basics)
+Others: Git | GitHub | REST APIs | API Integration | Cross-Browser Compatibility | Expo Router | Postman | Figma
 
